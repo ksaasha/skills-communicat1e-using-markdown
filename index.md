@@ -1,3 +1,2 @@
-# Content
-### Content1
-added headers
+# Picture
+![Image of a cat](https://octodex.github.com/images/yaktocat.png)
